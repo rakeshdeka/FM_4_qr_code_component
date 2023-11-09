@@ -9,8 +9,8 @@ const Card = () => {
                     <img className=' object-fill w-[100%] h-[100%] rounded-xl' src={qrCode} alt="qrCode" />
                 </div>
                 <div className='h-[18%] w-[99%] flex justify-center'>
-                    <p className='font-Outfit text-center font-bold text-[1.30rem] pt-2'>
-                        Improve you front-end skills by building projects
+                    <p className='text-[#1f3251] font-Outfit text-center font-bold text-[1.30rem] pt-2'>
+                        Improve your front-end skills by building projects
                     </p>
 
 
